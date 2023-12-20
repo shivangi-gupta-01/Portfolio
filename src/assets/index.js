@@ -20,7 +20,13 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
+import machinelearning from './tech/machinelearning.png'
+import cpp from './tech/cpp.svg'
+import mysql from './tech/mysql.png'
+import farmexpert from './farmexpert.png';
+import generalstore from './generalstore.png';
+import spotify from './spotify.jpeg';
+import flightmanagement from './flightmanagement.jpeg';
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -59,4 +65,11 @@ export {
   carrent,
   jobit,
   tripguide,
+  machinelearning,
+  cpp,
+  mysql,
+  farmexpert,
+  spotify,
+  generalstore,
+  flightmanagement
 };
